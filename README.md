@@ -58,7 +58,7 @@ Koh Young Technology와 협업한 산학 프로젝트
 Rule-based|Zero-Shot
 :--:|:--:
 <img src="https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/c367c6c7-41e0-48c6-a50f-7485880258c0" width="500px">|<img src="https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/2a7614fc-97bd-4506-83d9-4bd130ce94ae" width="500px">
-OpenPose<br>가속도|Blip<br>GroundingDINO<br>Human-Object Interaction(HOI)
+OpenPose<br>가속도|BLIP<br>GroundingDINO<br>Human-Object Interaction(HOI)
 
 </center>
 
