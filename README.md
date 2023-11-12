@@ -1,7 +1,7 @@
 ## 시각-언어 모델을 활용하는 제로샷 낙상 감지 방법론 (Zero-Shot Fall Detection: Leveraging Text Prompt in Vision-Language Models)
 
-### 📅 개발 기간
-#### [2023 산학 프로젝트 챌린지] : 2023.08.30(Wed) - 2023.11.21(Tue)
+## 프로젝트 소개
+Koh Young Technology와 협업한 산학 프로젝트
 
 <br>
 
@@ -20,14 +20,16 @@
 
 <br><br>
 
-## 프로젝트 소개
-Koh Young Technology와 협업한 산학 프로젝트
+
 
 <p align="center">
   
 ![ezgif com-resize](https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/3fd9d485-217a-428f-9c21-7de9ea47538f)
 
 </p>
+
+### 📅 개발 기간
+#### [2023 산학 프로젝트 챌린지] : 2023.08.30(Wed) - 2023.11.21(Tue)
 
 ### 💡 개발 배경 및 목적
 
