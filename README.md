@@ -17,7 +17,7 @@ Koh Young Technology와 협업한 산학 프로젝트
 
 </div>
 
-<br><br>
+<br>
 
 
 
