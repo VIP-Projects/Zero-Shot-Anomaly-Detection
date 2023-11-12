@@ -106,10 +106,9 @@ AI 라이브러리 : Pytorch 1.8.1
 <div markdown="1">
 
   ```
-virtual fitting dir
-
+Abnormal Detection dir
 .
-|--Android App
+|--Abnormal
 |      |--annotation
 |      |      '--image_caption.json
 |      |--BLIP
