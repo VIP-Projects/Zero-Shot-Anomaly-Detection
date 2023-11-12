@@ -1,6 +1,5 @@
 ## 시각-언어 모델을 활용하는 제로샷 낙상 감지 방법론 (Zero-Shot Fall Detection: Leveraging Text Prompt in Vision-Language Models)
 
-## 프로젝트 소개
 Koh Young Technology와 협업한 산학 프로젝트
 
 <br>
@@ -20,7 +19,7 @@ Koh Young Technology와 협업한 산학 프로젝트
 
 <br><br>
 
-
+## 프로젝트 소개
 
 <p align="center">
   
@@ -28,8 +27,10 @@ Koh Young Technology와 협업한 산학 프로젝트
 
 </p>
 
+
 ### 📅 개발 기간
 #### [2023 산학 프로젝트 챌린지] : 2023.08.30(Wed) - 2023.11.21(Tue)
+<br>
 
 ### 💡 개발 배경 및 목적
 
