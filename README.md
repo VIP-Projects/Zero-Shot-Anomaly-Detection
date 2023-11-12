@@ -184,8 +184,8 @@ virtual fitting dir
 ## 실행 방법
 
 ```
-# 1. 환경 설정
-Package 설치
+# 1. 환경 설정(Package 설치)
+pip install -r requirements.txt
 
 # 2. BLIP 모델과 GroundingDINO 모델 Download
 pretrained model Download
@@ -196,9 +196,8 @@ python Image_caption.py
 # 4. json file 정렬
 python json_sort.py
 
-# 5. 이상 감지
+# 5. 이상 감지 실행
 python abnormal_detection.py
-
 ```
 
 
