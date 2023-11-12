@@ -91,7 +91,7 @@ OpenPose<br>가속도|BLIP<br>GroundingDINO<br>Human-Object Interaction(HOI)
 ```
 운영체제 : Linux 20.04
 GPU : GeForce RTX 3090
-개발언어 : Python 3.8 / Java 11
+개발언어 : Python 3.8
 사용 툴 : Linux
 AI 라이브러리 : Pytorch 1.8.1
 ```
