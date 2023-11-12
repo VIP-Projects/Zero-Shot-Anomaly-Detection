@@ -67,6 +67,7 @@ OpenPose<br>가속도|BLIP<br>GroundingDINO<br>Human-Object Interaction(HOI)
 
 </center>
 
+<br><br>
 ### 💫 기대 효과
 
 - 소비자 뿐만 아니라 온라인 쇼핑몰이 반품으로 인한 <b>감정적, 경제적 손실을 줄일 수 있음 </b>
