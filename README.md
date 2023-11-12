@@ -19,7 +19,7 @@ Koh Young Technology와 협업한 산학 프로젝트
 
 <br><br>
 
-## 프로젝트 소개
+
 
 <p align="center">
   
@@ -27,6 +27,7 @@ Koh Young Technology와 협업한 산학 프로젝트
 
 </p>
 
+## 프로젝트 소개
 
 ### 📅 개발 기간
 #### [2023 산학 프로젝트 챌린지] : 2023.08.30(Wed) - 2023.11.21(Tue)
