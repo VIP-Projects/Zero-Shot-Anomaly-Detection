@@ -1,0 +1,3 @@
+https://github.com/salesforce/BLIP 
+
+model_base_capfilt_large.pth download
