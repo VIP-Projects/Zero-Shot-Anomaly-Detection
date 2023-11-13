@@ -1,8 +1,6 @@
 ## 시각-언어 모델을 활용하는 제로샷 낙상 감지 방법론 (Zero-Shot Fall Detection: Leveraging Text Prompt in Vision-Language Models)
 
-Koh Young Technology와 협업한 산학 프로젝트
-
-<img alt="Html" src ="https://img.shields.io/badge/2023 산학 프로젝트 챌린지-본선 1차 진출-87AAAA?style=for-the-badge"/>
+<img alt="Html" src ="https://img.shields.io/badge/2023 산학 프로젝트 챌린지 with Koh Young Technology-본선 1차 진출-87AAAA?style=for-the-badge"/>
 
 
 <br>
@@ -27,22 +25,22 @@ Koh Young Technology와 협업한 산학 프로젝트
 ## 프로젝트 소개
 
 ### 📅 개발 기간
-#### [2023 산학 프로젝트 챌린지] : 2023.08.30(Wed) - 2023.11.21(Tue)
+- 23.08.30(Wed) - 23.11.21(Tue) (2023 산학 프로젝트 챌린지)
+
 <br>
 
 ### 💡 개발 배경 및 목적
 
-#### Koh Young Technology
+#### Koh Young Technology 요구 사항
 
 - 제조 자동화 산업 
 - <b>이상 감지 검출</b> 연구 및 개발의 한계
   - 제조 및 검증 과정에서 고장 부품을 학습하고 선별하는 것이 어려움.
   - 모든 고장 부품에 대한 충분한 양의 훈련 데이터셋 얻기 어려움.
   - Unseen 영상 및 고장 카테고리 변경 시 재학습이 필요함.
-
 - 고장 카테고리를 학습하여 정확도를 1-2% 향상시키는 것보다 <b>Zero-Shot 방법론을 통해 학습 비용 감축</b>에 관심을 보임.
 
-#### 목적
+#### 프로젝트 목적
 
 - <b>시각-언어 모델을 이용</b>하여 <b>데이터셋을 훈련없이 Abnormal Detection이라는 일반적인 프레임워크</b> 만드는 것이 목표.
 
