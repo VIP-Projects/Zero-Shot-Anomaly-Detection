@@ -2,6 +2,9 @@
 
 Koh Young Technology와 협업한 산학 프로젝트
 
+<img alt="Html" src ="https://img.shields.io/badge/2023 산학 프로젝트 챌린지-본선 1차 진출-87AAAA?style=for-the-badge"/>
+
+
 <br>
 
 ##  Members
@@ -20,12 +23,6 @@ Koh Young Technology와 협업한 산학 프로젝트
 <br>
 
 
-
-<p align="center">
-  
-![ezgif com-resize](https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/3fd9d485-217a-428f-9c21-7de9ea47538f)
-
-</p>
 
 ## 프로젝트 소개
 
@@ -72,6 +69,7 @@ Koh Young Technology와 협업한 산학 프로젝트
 
 <p align="center">
  <img src="https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/eac17a36-caa5-465d-8c00-57fdbdc94b68" width="500px"> </p>
+
 
 <center>
 
