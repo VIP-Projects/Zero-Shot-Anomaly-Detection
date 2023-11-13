@@ -8,17 +8,29 @@
 ##  Members
 <div align="center">
 
-
-
 김준용 | 길다영 
 :-:|:-:
 <a href="https://github.com/wragon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>[![junyong@soongsil.ac.kr](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=maildotcom&logoColor=white&link=mailto:junyong@soongsil.ac.kr)](junyong@soongsil.ac.kr)|<a href="https://github.com/arittung"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>[![dayoung.k.ssu@gmail.com](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=maildotcom&logoColor=white&link=mailto:dayoung.k.ssu@gmail.com)](mailto:dayoung.k.ssu@gmail.com)
 <img alt="Html" src ="https://img.shields.io/badge/팀장-B1BED5?style=for-the-badge"/>|<img alt="Html" src ="https://img.shields.io/badge/팀원-B1BED5?style=for-the-badge"/>
 
-
 </div>
 
 <br>
+
+## Contents
+
+- [프로젝트 소개](#프로젝트-소개)
+  - [개발 기간](#-개발-기간)
+  - [개발 배경 및 목적](#-개발-배경-및-목적)
+  - [기대 효과](#-기대-효과)
+- [시스템 구성](#시스템-구성)
+  - [개발 환경 및 개발 언어](#-개발-환경-및-개발-언어)
+  - [시스템 디렉터리 구조](#-시스템-디렉터리-구조)
+- [실행 방법](#실행-방법)
+
+
+
+<br><br>
 
 
 
@@ -46,7 +58,14 @@
 
 - 기존 연구인 Fall Detection을 사례연구로 먼저 시도했고, <b>다양한 상황에서의 이상 감지로 일반화 가능성</b>을 확인함. 
 
-<br><br>
+<br>
+
+### 📼 서비스 시연 
+
+<p align="center">
+ <img src="https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/a2fef17c-a7e1-4cfb-b540-1f274610790b" width="500px"> </p>
+
+<br>
 
 
 ### 💫 기대 효과
@@ -65,8 +84,6 @@
 
 ## 시스템 구성
 
-<p align="center">
- <img src="https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/eac17a36-caa5-465d-8c00-57fdbdc94b68" width="500px"> </p>
 
 
 <center>
@@ -78,8 +95,7 @@ OpenPose<br>가속도|BLIP<br>GroundingDINO<br>Human-Object Interaction(HOI)
 
 </center>
 
-<br><br>
-
+<br>
 
 
 ### 🛠 개발 환경 및 개발 언어
@@ -173,7 +189,7 @@ Abnormal Detection dir
 
 </details>
 
-<br>
+<br><br>
 
 
 ## 실행 방법
