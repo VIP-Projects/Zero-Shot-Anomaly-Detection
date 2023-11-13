@@ -29,9 +29,7 @@
 - [실행 방법](#실행-방법)
 
 
-
 <br><br>
-
 
 
 ## 프로젝트 소개
@@ -63,10 +61,9 @@
 ### 📼 서비스 시연 
 
 <p align="center">
- <img src="https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/a2fef17c-a7e1-4cfb-b540-1f274610790b" width="500px"> </p>
+ <img src="https://github.com/VIP-Projects/Zero-Shot-Fall-Detection/assets/53934639/6740809a-62bf-4d13-8cda-9a05a8e9fc1f" width="800px"> </p>
 
 <br>
-
 
 ### 💫 기대 효과
 
@@ -83,8 +80,6 @@
 
 
 ## 시스템 구성
-
-
 
 <center>
 
