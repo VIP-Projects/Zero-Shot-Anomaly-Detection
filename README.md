@@ -1,4 +1,4 @@
-## 시각-언어 모델을 활용하는 제로샷 낙상 감지 방법론 (Zero-Shot Fall Detection: Leveraging Text Prompt in Vision-Language Models)
+## 시각-언어 모델을 활용하는 제로샷 이상 감지 방법론 (Zero-Shot Anomaly Detection: Leveraging Text Prompt in Vision-Language Models)
 
 <img alt="Html" src ="https://img.shields.io/badge/2023 산학 프로젝트 챌린지 with Koh Young Technology-본선 1차 진출-87AAAA?style=for-the-badge"/>
 
